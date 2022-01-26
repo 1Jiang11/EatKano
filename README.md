@@ -9,10 +9,6 @@ _🦌 网页小游戏 🥛_
 
 小游戏：调教希
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://1jiang11.github.io/EatKano/
-)
 
 ## 可选功能
 
